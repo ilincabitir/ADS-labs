@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\Ilinca\Desktop\college\ADS labs\Lab1 Select CMakeLists.txt
