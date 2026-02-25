@@ -1,6 +1,6 @@
 # ADS Labs
 
-Welcome to **ADS Labs**! 🎓  
+Welcome to my **ADS Labs** repo! 
 
 This repository contains **C++ implementations of Advanced Data Structures** for college labs. Each file corresponds to a data structure covered in the course.  
 
